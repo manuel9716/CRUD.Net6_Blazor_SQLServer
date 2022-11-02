@@ -1,0 +1,12 @@
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\bin\Debug\net6.0\Crud.Net.Shared.deps.json
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\bin\Debug\net6.0\Crud.Net.Shared.dll
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\bin\Debug\net6.0\Crud.Net.Shared.pdb
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.csproj.AssemblyReference.cache
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.AssemblyInfoInputs.cache
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.AssemblyInfo.cs
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.csproj.CoreCompileInputs.cache
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.dll
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\refint\Crud.Net.Shared.dll
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\Crud.Net.Shared.pdb
+C:\DESARROLLOS\web_project2\Crud.Net\Crud.Net\Shared\obj\Debug\net6.0\ref\Crud.Net.Shared.dll
